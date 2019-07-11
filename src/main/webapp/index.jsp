@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Serving from node 1</h2>
+<h2>Test successful  !!</h2>
+ <h3>Deployed from master branch/h3>
 </body>
 </html>
