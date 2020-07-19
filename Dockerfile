@@ -1,2 +1,2 @@
 FROM branko129/tcat
-COPY target/JenkinsWar.jar /usr/local/tomcat/webapps
+COPY target/JenkinsWar.war /usr/local/tomcat/webapps
